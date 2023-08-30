@@ -1,6 +1,12 @@
 state1
 state2
 state3
+<<<<<<< Updated upstream
 state4
 state5
 state6
+=======
+state6
+state7
+state8
+>>>>>>> Stashed changes
