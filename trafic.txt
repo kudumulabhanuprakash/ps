@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lot of trafic
+=======
+no trafic
+>>>>>>> silkboard2
